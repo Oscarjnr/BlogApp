@@ -1,0 +1,10 @@
+nav
+{
+  height: 70px;
+  font-size: 19px;
+  background-color: var(--primary-color);
+}
+
+.nav-link {
+  color: var(--secondary-color);
+}
