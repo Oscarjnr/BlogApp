@@ -1,0 +1,26 @@
+footer {
+  height: 150px;
+  padding: 15px;
+  background-color: var(--primary-color);
+  margin-top: 85vh;
+}
+
+.site-logo {
+  padding: 5px 20px;
+  border-radius: 20px;
+  color: white;
+  font-size: 1.5em;
+}
+
+.nav-link {
+  color: var(--secondary-color);
+}
+
+li {
+  font-size: 1.2em;
+}
+
+p {
+  color: var(--secondary-color);
+  font-size: 1em;
+}
